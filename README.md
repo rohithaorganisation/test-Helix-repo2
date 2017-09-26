@@ -1,1 +1,1 @@
-Initial commmit
+application zone details are in master branch here:[dev.yml]    (https://github.com/rohithaorganisation/test-Helix-repo2/blob/master/dev.yml)
